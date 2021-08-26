@@ -1,0 +1,29 @@
+1.Wap to reverse the given string.
+2.Wap to reverse order of words
+Python is very easy language
+language easy very is python
+3.Wap to reverse internal contant of each words.
+Python is very easy language
+nohtyP si yrev ysae egaugnal
+4.Wap to merge charcters  of two strings
+s1="ravi"
+s2="teja jaipur"
+rtaevjia jaipur
+5.Wap to sort the characters of the string and first alphabet 
+b45ty67
+bty4567
+6.Wap to 
+a4b3c2
+aaaabbbcc
+7.WAp to 
+a4k3c2
+aeknce
+8.Wap to remove duplicate characters
+ABCDABCDRTFAABBCCRRT
+ABCDRTF
+9. WAP to print repetition of the characters 
+abcdabcdabcdabcd
+a=4
+b=4
+c=4
+d=4
