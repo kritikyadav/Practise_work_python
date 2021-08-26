@@ -1,0 +1,6 @@
+print("enter time in hr's,min's,sec's")
+a = int(input("hr. "))
+b = int(input("min. "))
+c = int(input("sec. "))
+total_second = (a*60**2)+(b*60)+(c)
+print("total_second= ", total_second ,"seconds")
